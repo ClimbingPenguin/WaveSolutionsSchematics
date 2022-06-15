@@ -1,0 +1,30 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AVR64DA28-I_SS
+D AVR 64 DA microprocessor
+K AVR, Atmel
+F https://www.farnell.com/datasheets/3165060.pdf
+$ENDCMP
+#
+$CMP BA4558F-E2
+D Dual Opamp
+F https://www.farnell.com/datasheets/2736266.pdf
+$ENDCMP
+#
+$CMP CD4016BE
+D CMOS Quad Billateral Switch
+K Analog MUX
+F https://www.ti.com/lit/ds/symlink/cd4016b.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1653468081924&ref_url=https%253A%252F%252Fnl.mouser.com%252F
+$ENDCMP
+#
+$CMP MCP42010-E_SL
+D 10k digipot SOIC versie
+F https://www.farnell.com/datasheets/12247.pdf
+$ENDCMP
+#
+$CMP MCP42010-I.P
+D 10k digipot DIP versie
+F https://www.farnell.com/datasheets/12247.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Audio-circuit-rescue)(type Legacy)(uri "${KIPRJMOD}/Audio circuit-rescue.lib")(options "")(descr ""))
+  (lib (name proq2)(type Legacy)(uri "C:/Project school/PRO-Q2/KiCad (laaste versie)/KiCad/Pro-Q2-LIB/Proq2.lib")(options "")(descr ""))
+)

@@ -1,0 +1,24 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AVR64DA28-I_SS
+D AVR 64 DA microprocessor
+K AVR, Atmel
+F https://www.farnell.com/datasheets/3165060.pdf
+$ENDCMP
+#
+$CMP MCP42010-E_SL
+D 10k digipot SOIC versie
+F https://www.farnell.com/datasheets/12247.pdf
+$ENDCMP
+#
+$CMP MCP42010-E_SL_copy
+D 10k digipot
+F https://www.farnell.com/datasheets/12247.pdf
+$ENDCMP
+#
+$CMP MCP42010-I.P
+D 10k digipot DIP versie
+F https://www.farnell.com/datasheets/12247.pdf
+$ENDCMP
+#
+#End Doc Library
